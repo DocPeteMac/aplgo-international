@@ -1,0 +1,637 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aplgo-international.com" resolutions="1x" timestamp="1563636313225">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_apl-master.css" crc="448737514" ref="impressum:produkte:member-shop:member-login:shop:kombinationen:index:disclaimer:informationen"/>
+    <file name="nomq_preview_master_apl-master.css" crc="3824530138" ref="impressum:produkte:member-shop:member-login:shop:kombinationen:index:disclaimer:informationen"/>
+    <file name="impressum.css" crc="294983895" ref="impressum"/>
+    <file name="nomq_impressum.css" crc="4157836632" ref="impressum"/>
+    <file name="iefonts_impressum.css" crc="3824530138" ref="impressum"/>
+    <file name="produkte.css" crc="4138331600" ref="produkte"/>
+    <file name="nomq_produkte.css" crc="4245874604" ref="produkte"/>
+    <file name="iefonts_produkte.css" crc="3824530138" ref="produkte"/>
+    <file name="ihre_chance.css" crc="302584088" ref="ihre_chance"/>
+    <file name="member-shop.css" crc="4229656768" ref="member-shop"/>
+    <file name="nomq_member-shop.css" crc="251217702" ref="member-shop"/>
+    <file name="member-login.css" crc="3842131081" ref="member-login"/>
+    <file name="nomq_member-login.css" crc="4046110018" ref="member-login"/>
+    <file name="shop.css" crc="247259754" ref="shop"/>
+    <file name="nomq_shop.css" crc="4017363560" ref="shop"/>
+    <file name="kombinationen.css" crc="3969317735" ref="kombinationen"/>
+    <file name="nomq_kombinationen.css" crc="477324486" ref="kombinationen"/>
+    <file name="index.css" crc="156726901" ref="index"/>
+    <file name="nomq_index.css" crc="4126949993" ref="index"/>
+    <file name="disclaimer.css" crc="123696152" ref="disclaimer"/>
+    <file name="nomq_disclaimer.css" crc="431747048" ref="disclaimer"/>
+    <file name="informationen.css" crc="307488792" ref="informationen"/>
+    <file name="nomq_informationen.css" crc="519713248" ref="informationen"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>informationen:tablet>index:tablet>informationen:index:informationen"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u12120.php" crc="4199282603" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>ihre_chance:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:ihre_chance:member-login:member-shop:shop"/>
+    <file name="form-u7090.php" crc="4245640507" ref="tablet>index"/>
+    <file name="form-u5237.php" crc="3995987147" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+  </folder>
+  <folder name="images">
+    <file name="apl logo2.png" crc="141261641" seo="true" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop">
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="ihre_chance" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+    </file>
+    <file name="apl logo1.png" crc="4216451976" seo="true" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop">
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="ihre_chance" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+    </file>
+    <file name="produkte11 button-u12140-fr.png" crc="396088164" ref="phone>index"/>
+    <file name="produkte11 button-u12140-r-fr.png" crc="3887656445" ref="phone>index"/>
+    <file name="balance-butterfly-u12088-fr.jpg" crc="356059066" ref="phone>index"/>
+    <file name="balance.jpg" crc="56799561" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="essential-oils-u12096-fr.jpg" crc="3843813644" ref="phone>index"/>
+    <file name="wald_earth-u12102-fr.jpg" crc="3892091758" ref="phone>index"/>
+    <file name="cell_1.jpg" crc="197936015" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acum-sa.jpg" crc="316124769" seo="true" ref="phone>index:phone>informationen:tablet>index:tablet>informationen:index:informationen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+    </file>
+    <file name="green drink-u12116-fr.jpg" crc="4053345761" ref="phone>index"/>
+    <file name="produkte11 button-u12117-fr.png" crc="193645809" ref="phone>index"/>
+    <file name="produkte11 button-u12117-r-fr.png" crc="3991585530" ref="phone>index"/>
+    <file name="menu_button_rd.png" crc="532397574" seo="true" ref="phone>index:phone>informationen:phone>produkte:phone>kombinationen:phone>impressum:phone>disclaimer:phone>shop:tablet>index:tablet>informationen:tablet>produkte:tablet>kombinationen:tablet>ihre_chance:tablet>impressum:tablet>disclaimer:tablet>shop:index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop">
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="informationen" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="member-login" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="ihre_chance" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+      <caption webpage="disclaimer" alt=""/>
+    </file>
+    <file name="dna3-u12511-fr.jpg" crc="129164964" ref="phone>informationen"/>
+    <file name="nature-u12512-fr.jpg" crc="4003022093" ref="phone>informationen"/>
+    <file name="ice1.png" crc="475059207" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="alt1.png" crc="3904278458" seo="true" ref="phone>produkte:tablet>produkte:produkte">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+    </file>
+    <file name="grw1.png" crc="4014743015" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="gts1.png" crc="4114455681" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="hpr1.png" crc="470741018" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="mls1.png" crc="4266612435" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="sld1.png" crc="3890974309" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="stp1.png" crc="501790407" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="nrm1.png" crc="64677155" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="rlx1.png" crc="163393600" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="pwr-man1.png" crc="516562306" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="pwr-woman1.png" crc="4086656999" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="hrt1.png" crc="3852175374" seo="true" ref="phone>produkte:phone>shop:tablet>produkte:tablet>shop:produkte:member-shop:shop">
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="produkte" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="img_48111.jpg" crc="3934299483" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48211.jpg" crc="4208815180" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48181.jpg" crc="49204231" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48171.jpg" crc="4239520461" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48191.jpg" crc="259399336" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48151.jpg" crc="4095337498" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48131.jpg" crc="309420881" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48201.jpg" crc="182259049" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48221.jpg" crc="362510708" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48231.jpg" crc="86055274" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48161.jpg" crc="112145244" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="img_48121.jpg" crc="3820464552" seo="true" ref="phone>kombinationen:tablet>kombinationen:kombinationen">
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+      <caption webpage="kombinationen" alt=""/>
+    </file>
+    <file name="alt.png" crc="3912705757" seo="true" ref="phone>shop:tablet>shop:member-shop:shop">
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="member-shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="produkte11 button-normal.png" crc="52153494" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="produkte11 button-roll over.png" crc="25180538" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="balance-butterfly-u7057-fr.jpg" crc="4045539658" ref="tablet>index"/>
+    <file name="essential-oils.jpg" crc="200596949" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wald_earth.jpg" crc="243034774" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green drink-u7086-fr.jpg" crc="275874323" ref="tablet>index"/>
+    <file name="dna3-u13481-fr.jpg" crc="4211337669" ref="tablet>informationen"/>
+    <file name="nature-u13482-fr.jpg" crc="413102927" ref="tablet>informationen"/>
+    <file name="balance-butterfly.jpg" crc="79986837" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green drink.jpg" crc="3857795155" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="balance-butterfly-u229-fr.jpg" crc="4279254018" ref="index"/>
+    <file name="wald_earth-u3954-fr.jpg" crc="106479886" ref="index"/>
+    <file name="green drink-u4779-fr.jpg" crc="4088127665" ref="index"/>
+    <file name="balance-butterfly-u229-fr2.jpg" crc="4254126212" ref="index"/>
+    <file name="balance-u1639-fr.jpg" crc="360003435" ref="index"/>
+    <file name="essential-oils-u2716-fr.jpg" crc="4118213074" ref="index"/>
+    <file name="wald_earth-u3954-fr2.jpg" crc="4249249570" ref="index"/>
+    <file name="cell_1262x192.jpg" crc="380457729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green drink-u4779-fr2.jpg" crc="509598143" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:disclaimer:impressum:informationen:produkte:kombinationen:member-login:member-shop:shop"/>
+    <file name="dna3.jpg" crc="4067379001" ref="informationen">
+      <caption webpage="informationen" alt=""/>
+    </file>
+    <file name="nature.jpg" crc="4225846979" ref="informationen">
+      <caption webpage="informationen" alt=""/>
+    </file>
+    <file name="dna3-u8827-fr.jpg" crc="426570706" ref="informationen"/>
+    <file name="nature-u8828-fr.jpg" crc="64679989" ref="informationen"/>
+    <file name="dna3-u8827-fr2.jpg" crc="255475467" ref="informationen"/>
+    <file name="nature-u8828-fr2.jpg" crc="3979092596" ref="informationen"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_apl-master.css" crc="4109941717" ref="tablet>impressum:tablet>index:tablet>kombinationen:tablet>shop:tablet>informationen:tablet>disclaimer:tablet>ihre_chance:tablet>produkte"/>
+      <file name="nomq_preview_master_apl-master.css" crc="3824530138" ref="tablet>impressum:tablet>index:tablet>kombinationen:tablet>shop:tablet>informationen:tablet>disclaimer:tablet>ihre_chance:tablet>produkte"/>
+      <file name="impressum.css" crc="4107826292" ref="tablet>impressum"/>
+      <file name="iefonts_impressum.css" crc="72975035" ref="tablet>impressum"/>
+      <file name="index.css" crc="3948652603" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4194458280" ref="tablet>index"/>
+      <file name="kombinationen.css" crc="37113603" ref="tablet>kombinationen"/>
+      <file name="iefonts_kombinationen.css" crc="4259982178" ref="tablet>kombinationen"/>
+      <file name="shop.css" crc="3976543171" ref="tablet>shop"/>
+      <file name="nomq_shop.css" crc="3824530138" ref="tablet>shop"/>
+      <file name="informationen.css" crc="4151892364" ref="tablet>informationen"/>
+      <file name="iefonts_informationen.css" crc="4058887031" ref="tablet>informationen"/>
+      <file name="disclaimer.css" crc="406329029" ref="tablet>disclaimer"/>
+      <file name="ihre_chance.css" crc="4059849460" ref="tablet>ihre_chance"/>
+      <file name="produkte.css" crc="409967794" ref="tablet>produkte"/>
+      <file name="iefonts_produkte.css" crc="4036930180" ref="tablet>produkte"/>
+    </folder>
+    <file name="index.html" crc="4063471059" seo="true" mt="1504299441573" redirect="true"/>
+    <file name="informationen.html" crc="134929458" seo="true" mt="1504276358183" redirect="true"/>
+    <file name="produkte.html" crc="133632277" seo="true" mt="1504276358183" redirect="true"/>
+    <file name="kombinationen.html" crc="314274708" seo="true" mt="1504276358183" redirect="true"/>
+    <file name="ihre_chance.html" crc="399698207" seo="true" mt="1504276824367" redirect="true"/>
+    <file name="impressum.html" crc="403461476" seo="true" mt="1504276358183" redirect="true"/>
+    <file name="disclaimer.html" crc="409088596" seo="true" mt="1504276358183" redirect="true"/>
+    <file name="shop.html" crc="4029750761" seo="true" mt="1504276805151" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_apl-master.css" crc="222619746" ref="phone>produkte:phone>informationen:phone>shop:phone>index:phone>impressum:phone>kombinationen:phone>disclaimer"/>
+      <file name="nomq_preview_master_apl-master.css" crc="3824530138" ref="phone>produkte:phone>informationen:phone>shop:phone>index:phone>impressum:phone>kombinationen:phone>disclaimer"/>
+      <file name="produkte.css" crc="3985104688" ref="phone>produkte"/>
+      <file name="iefonts_produkte.css" crc="3887784770" ref="phone>produkte"/>
+      <file name="informationen.css" crc="4249202560" ref="phone>informationen"/>
+      <file name="iefonts_informationen.css" crc="3791489191" ref="phone>informationen"/>
+      <file name="ihre_chance.css" crc="279237556" ref="phone>ihre_chance"/>
+      <file name="shop.css" crc="439279571" ref="phone>shop"/>
+      <file name="nomq_shop.css" crc="3824530138" ref="phone>shop"/>
+      <file name="index.css" crc="3927734151" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="218355584" ref="phone>index"/>
+      <file name="impressum.css" crc="3949340532" ref="phone>impressum"/>
+      <file name="iefonts_impressum.css" crc="6351307" ref="phone>impressum"/>
+      <file name="kombinationen.css" crc="9957674" ref="phone>kombinationen"/>
+      <file name="iefonts_kombinationen.css" crc="4238097762" ref="phone>kombinationen"/>
+      <file name="disclaimer.css" crc="3910440109" ref="phone>disclaimer"/>
+    </folder>
+    <file name="index.html" crc="4037174029" seo="true" mt="1509060982173" redirect="true"/>
+    <file name="informationen.html" crc="3862009635" seo="true" mt="1509061185853" redirect="true"/>
+    <file name="produkte.html" crc="4148625810" seo="true" mt="1504276358184" redirect="true"/>
+    <file name="kombinationen.html" crc="78245437" seo="true" mt="1504276358184" redirect="true"/>
+    <file name="ihre_chance.html" crc="196956904" seo="true" mt="1504276833511" redirect="false"/>
+    <file name="impressum.html" crc="3758394013" seo="true" mt="1504276358187" redirect="true"/>
+    <file name="disclaimer.html" crc="3844183077" seo="true" mt="1504276358187" redirect="true"/>
+    <file name="shop.html" crc="3826723158" seo="true" mt="1504276810954" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4100318336" seo="true" mt="1542043312943" redirect="true"/>
+  <file name="disclaimer.html" crc="4111057671" seo="true" mt="1504276358182" redirect="true"/>
+  <file name="impressum.html" crc="191608924" seo="true" mt="1541432088783" redirect="true"/>
+  <file name="informationen.html" crc="229573817" seo="true" mt="1509934134101" redirect="true"/>
+  <file name="produkte.html" crc="4041632918" seo="true" mt="1504276358182" redirect="true"/>
+  <file name="kombinationen.html" crc="331767591" seo="true" mt="1509934207965" redirect="true"/>
+  <file name="ihre_chance.html" crc="112754260" seo="true" mt="1509934010370" redirect="false"/>
+  <file name="member-login.html" crc="3827110068" seo="true" mt="1504276358182" redirect="true"/>
+  <file name="member-shop.html" crc="314539510" seo="true" mt="1504276358182" redirect="true"/>
+  <file name="shop.html" crc="437091724" seo="true" mt="1509934324202" redirect="true"/>
+</manifest>
